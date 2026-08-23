@@ -130,7 +130,14 @@ body{
     border-radius: 16px;
     box-shadow: 0 10px 30px rgba(0,0,0,.15);
 }
-}
+
+.story-photo-left {
+    float: left;
+    width: 250px;
+    height: auto;
+    margin: 10px 30px 20px 0;
+    border-radius: 16px;
+    box-shadow: 0 10px 30px rgba(0,0,0,.15);
 }
 .story em{
     font-style:italic;
