@@ -201,5 +201,23 @@ font-size:1.15rem;
 line-height:1.9;
 text-align:left;
 }
+.story-photo,
+.story-photo-left{
+    float:none;
+    width:75%;
+    max-width:280px;
+    height:auto;
+    margin-top:30px;
+    margin-bottom:35px;
+}
 
+.story-photo-left{
+    margin-left:0;
+    margin-right:auto;
+}
+
+.story-photo{
+    margin-left:auto;
+    margin-right:0;
+}
 }
